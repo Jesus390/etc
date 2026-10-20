@@ -1,0 +1,14 @@
+# Used for fast test
+*/_.py
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+
+# Devcontainer local
+.devcontainer/data/
+
